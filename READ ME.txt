@@ -1,0 +1,24 @@
+PROJECT TEAM
+-------------------------------------
+SOMYA SINGH - sxs161331
+SABARISH NADARAJAN - sxn164530
+SONALI MISHRA - sxm161931
+
+
+COMPILATION AND RUN
+-------------------------------------
+java version "1.8.0_101"
+1) javac BFS.java
+2) java BFS
+3) Enter input file location
+
+SAMPLE INPUTS ATTACHED
+-------------------------------------
+1) First line contains number of nodes 
+2) Second line contains Node ids (ascending order)
+3) Source Node id
+4) Adjaceny matrix 
+
+SAMPLE OUTPUT ATTACHED
+-------------------------------------
+output file names corresponding to input file names 

@@ -1,0 +1,372 @@
+Enter the input file
+random number  = 1 picked by Pid = 5
+random number  = 2 picked by Pid = 5
+random number  = 16 picked by Pid = 5
+Message sent from  5 to 2
+Message sent from  5 to 4
+Message sent from  5 to 8
+Round 0 complete -> All messages delivered
+-----------------------------------------------------
+From 5 2 Prepping Normal message to 3
+random number  = 15 picked by Pid = 2
+From 5 2 Prepping Normal message to 5
+random number  = 19 picked by Pid = 2
+From 5 2 Prepping Normal message to 4
+random number  = 9 picked by Pid = 2
+From 5 2 Prepping Normal message to 0
+random number  = 17 picked by Pid = 2
+From 5 2 Prepping Normal message to 1
+random number  = 16 picked by Pid = 2
+Round 1 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  2 to 3
+Message sent from  2 to 5
+Message sent from  2 to 4
+Message sent from  2 to 0
+Message sent from  2 to 1
+From 5 4 Prepping Normal message to 2
+random number  = 11 picked by Pid = 4
+From 5 4 Prepping Normal message to 5
+random number  = 5 picked by Pid = 4
+From 5 4 Prepping Normal message to 1
+random number  = 8 picked by Pid = 4
+From 5 4 Prepping Normal message to 7
+random number  = 20 picked by Pid = 4
+Round 2 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  4 to 2
+Message sent from  4 to 5
+Message sent from  4 to 1
+Message sent from  4 to 7
+Round 3 complete -> All messages delivered
+-----------------------------------------------------
+Round 4 complete -> All messages delivered
+-----------------------------------------------------
+5 Preparing to reject  4
+random number  = 19 picked by Pid = 5
+Round 5 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  5 to 4
+Round 6 complete -> All messages delivered
+-----------------------------------------------------
+Round 7 complete -> All messages delivered
+-----------------------------------------------------
+From 4 1 Prepping Normal message to 2
+random number  = 22 picked by Pid = 1
+From 4 1 Prepping Normal message to 4
+random number  = 19 picked by Pid = 1
+From 4 1 Prepping Normal message to 0
+random number  = 14 picked by Pid = 1
+Round 8 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  1 to 2
+Message sent from  1 to 4
+Message sent from  1 to 0
+4 Preparing to reject  2
+random number  = 20 picked by Pid = 4
+Round 9 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  4 to 2
+Round 10 complete -> All messages delivered
+-----------------------------------------------------
+2 Preparing to reject  4
+random number  = 25 picked by Pid = 2
+Round 11 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  2 to 4
+Round 12 complete -> All messages delivered
+-----------------------------------------------------
+Round 13 complete -> All messages delivered
+-----------------------------------------------------
+From 1 0 Prepping Normal message to 2
+random number  = 20 picked by Pid = 0
+From 1 0 Prepping Normal message to 3
+random number  = 26 picked by Pid = 0
+From 1 0 Prepping Normal message to 1
+random number  = 16 picked by Pid = 0
+Round 14 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  0 to 2
+Message sent from  0 to 3
+Message sent from  0 to 1
+From 2 3 Prepping Normal message to 2
+random number  = 23 picked by Pid = 3
+From 2 3 Prepping Normal message to 0
+random number  = 22 picked by Pid = 3
+From 2 3 Prepping Normal message to 6
+random number  = 23 picked by Pid = 3
+Round 15 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  3 to 2
+Message sent from  3 to 0
+Message sent from  3 to 6
+From 5 8 Prepping Normal message to 5
+random number  = 18 picked by Pid = 8
+From 5 8 Prepping Normal message to 6
+random number  = 19 picked by Pid = 8
+From 5 8 Prepping Normal message to 7
+random number  = 21 picked by Pid = 8
+1 Preparing to reject  2
+random number  = 28 picked by Pid = 1
+1 Preparing to reject  0
+random number  = 26 picked by Pid = 1
+Round 16 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  8 to 5
+Message sent from  8 to 6
+Message sent from  8 to 7
+Message sent from  1 to 2
+Message sent from  1 to 0
+random number  = 27 picked by Pid = 0
+From 2 0 Prepping Normal message to 2
+random number  = 29 picked by Pid = 0
+From 2 0 Prepping Normal message to 3
+random number  = 29 picked by Pid = 0
+From 2 0 Prepping Normal message to 1
+random number  = 26 picked by Pid = 0
+Round 17 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  0 to 2
+Message sent from  0 to 3
+Message sent from  0 to 1
+5 Preparing to reject  8
+random number  = 35 picked by Pid = 5
+Round 18 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  5 to 8
+5 Preparing to reject  2
+random number  = 30 picked by Pid = 5
+4 Preparing to reject  1
+random number  = 27 picked by Pid = 4
+Rejected Candidate 4 by 5
+From 8 6 Prepping Normal message to 3
+random number  = 33 picked by Pid = 6
+From 8 6 Prepping Normal message to 8
+random number  = 35 picked by Pid = 6
+Round 19 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  5 to 2
+Message sent from  4 to 1
+Message sent from  6 to 3
+Message sent from  6 to 8
+Rejected Candidate 2 by 4
+2 Preparing to reject  0
+random number  = 27 picked by Pid = 2
+From 4 7 Prepping Normal message to 4
+random number  = 32 picked by Pid = 7
+From 4 7 Prepping Normal message to 8
+random number  = 27 picked by Pid = 7
+Round 20 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  2 to 0
+Message sent from  7 to 4
+Message sent from  7 to 8
+7 Preparing to reject  8
+random number  = 27 picked by Pid = 7
+Round 21 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  7 to 8
+2 Preparing to reject  1
+random number  = 27 picked by Pid = 2
+0 Preparing to reject  3
+random number  = 34 picked by Pid = 0
+Round 22 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  2 to 1
+Message sent from  0 to 3
+2 Preparing to reject  3
+random number  = 25 picked by Pid = 2
+6 Preparing to reject  3
+random number  = 32 picked by Pid = 6
+Round 23 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  2 to 3
+Message sent from  6 to 3
+Round 24 complete -> All messages delivered
+-----------------------------------------------------
+Rejected Candidate 3 by 2
+Rejected Candidate 4 by 2
+Round 25 complete -> All messages delivered
+-----------------------------------------------------
+3 Preparing to reject  0
+random number  = 31 picked by Pid = 3
+Rejected Candidate 0 by 1
+1 Preparing to reject  0
+random number  = 39 picked by Pid = 1
+Round 26 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  3 to 0
+Message sent from  1 to 0
+Rejected Candidate 0 by 2
+8 Preparing to reject  7
+random number  = 42 picked by Pid = 8
+Rejected Candidate 8 by 7
+Rejected Candidate 1 by 2
+Rejected Candidate 1 by 4
+Rejected Candidate 1 by 0
+All messages received by 1
+random number  = 39 picked by Pid = 1
+Round 27 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  8 to 7
+Message sent from  1 to 4
+Rejected Candidate 2 by 1
+Round 28 complete -> All messages delivered
+-----------------------------------------------------
+2 Preparing to reject  0
+random number  = 34 picked by Pid = 2
+3 Preparing to reject  0
+random number  = 36 picked by Pid = 3
+Round 29 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  2 to 0
+Message sent from  3 to 0
+Rejected Candidate 2 by 5
+Round 30 complete -> All messages delivered
+-----------------------------------------------------
+Rejected Candidate 0 by 3
+All messages received by 0
+random number  = 44 picked by Pid = 0
+Round 31 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  0 to 2
+Rejected Candidate 3 by 6
+4 Preparing to reject  7
+random number  = 47 picked by Pid = 4
+Round 32 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  4 to 7
+3 Preparing to reject  6
+random number  = 50 picked by Pid = 3
+Round 33 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  3 to 6
+Rejected Candidate 3 by 0
+All messages received by 3
+random number  = 46 picked by Pid = 3
+Rejected Candidate 0 by 2
+Round 34 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  3 to 2
+Rejected Candidate 8 by 5
+8 Preparing to reject  6
+random number  = 41 picked by Pid = 8
+Round 35 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  8 to 6
+Rejected Candidate 0 by 3
+Round 36 complete -> All messages delivered
+-----------------------------------------------------
+Round 37 complete -> All messages delivered
+-----------------------------------------------------
+Round 38 complete -> All messages delivered
+-----------------------------------------------------
+Accepted Candidate 4 by 1
+Rejected Candidate 0 by 1
+Round 39 complete -> All messages delivered
+-----------------------------------------------------
+Round 40 complete -> All messages delivered
+-----------------------------------------------------
+Rejected Candidate 6 by 8
+Round 41 complete -> All messages delivered
+-----------------------------------------------------
+Rejected Candidate 7 by 8
+Round 42 complete -> All messages delivered
+-----------------------------------------------------
+Round 43 complete -> All messages delivered
+-----------------------------------------------------
+Accepted Candidate 2 by 0
+Round 44 complete -> All messages delivered
+-----------------------------------------------------
+Round 45 complete -> All messages delivered
+-----------------------------------------------------
+Accepted Candidate 2 by 3
+All messages received by 2
+random number  = 53 picked by Pid = 2
+Round 46 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  2 to 5
+Rejected Candidate 7 by 4
+All messages received by 7
+random number  = 55 picked by Pid = 7
+Round 47 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  7 to 4
+Round 48 complete -> All messages delivered
+-----------------------------------------------------
+Round 49 complete -> All messages delivered
+-----------------------------------------------------
+Rejected Candidate 6 by 3
+All messages received by 6
+random number  = 64 picked by Pid = 6
+Round 50 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  6 to 8
+Round 51 complete -> All messages delivered
+-----------------------------------------------------
+Round 52 complete -> All messages delivered
+-----------------------------------------------------
+Accepted Candidate 5 by 2
+Round 53 complete -> All messages delivered
+-----------------------------------------------------
+Round 54 complete -> All messages delivered
+-----------------------------------------------------
+Accepted Candidate 4 by 7
+All messages received by 4
+random number  = 58 picked by Pid = 4
+Round 55 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  4 to 5
+Round 56 complete -> All messages delivered
+-----------------------------------------------------
+Round 57 complete -> All messages delivered
+-----------------------------------------------------
+Accepted Candidate 5 by 4
+Round 58 complete -> All messages delivered
+-----------------------------------------------------
+Round 59 complete -> All messages delivered
+-----------------------------------------------------
+Round 60 complete -> All messages delivered
+-----------------------------------------------------
+Round 61 complete -> All messages delivered
+-----------------------------------------------------
+Round 62 complete -> All messages delivered
+-----------------------------------------------------
+Round 63 complete -> All messages delivered
+-----------------------------------------------------
+Accepted Candidate 8 by 6
+All messages received by 8
+random number  = 73 picked by Pid = 8
+Round 64 complete -> All messages delivered
+-----------------------------------------------------
+Message sent from  8 to 5
+Round 65 complete -> All messages delivered
+-----------------------------------------------------
+Round 66 complete -> All messages delivered
+-----------------------------------------------------
+Round 67 complete -> All messages delivered
+-----------------------------------------------------
+Round 68 complete -> All messages delivered
+-----------------------------------------------------
+Round 69 complete -> All messages delivered
+-----------------------------------------------------
+Round 70 complete -> All messages delivered
+-----------------------------------------------------
+Round 71 complete -> All messages delivered
+-----------------------------------------------------
+Round 72 complete -> All messages delivered
+-----------------------------------------------------
+Accepted Candidate 5 by 8
+Round 73 complete -> All messages delivered
+-----------------------------------------------------
+-------------------
+OUTPUT
+-------------------
+2-> 3 (Hops = 2)
+2-> 0 (Hops = 2)
+5-> 2 (Hops = 1)
+5-> 4 (Hops = 1)
+5-> 8 (Hops = 1)
+4-> 1 (Hops = 2)
+4-> 7 (Hops = 2)
+8-> 6 (Hops = 2)
